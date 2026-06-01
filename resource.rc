@@ -1,0 +1,8 @@
+#include "resource.h"
+#include <windows.h>
+
+// Arahkan jalur secara fisik ke subfolder Resource
+IDI_MAIN          ICON    "Resource\\main.ico"
+IDI_TRAY_OFF      ICON    "Resource\\tray-off.ico"
+IDI_TRAY_ON       ICON    "Resource\\tray-on.ico"
+IDI_TRAY_ON_MULTI ICON    "Resource\\tray-multi.ico"
